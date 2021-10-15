@@ -1,16 +1,11 @@
-### Hi there 👋
+### ✨ Hi, I'm Sana ✨ 
 
+- 😊 Pronouns: She/Her
+- 👩🏽‍💻 Program Manager working on [VS Code](https://github.com/microsoft/vscode)
+- 🌆 Based in New York City
+- 📖 Currently reading: Anxious People, Why We Sleep
+- 💬 Ask me about edu tech, product management tips, open source practices
+- 🤔 Want to learn more about web3, civic tech, marathon running tips
+- 👋🏽 Want to chat or just say hi? Reach out: [email](mailto:sanaajani1@gmail.com), [LinkedIn](https://www.linkedin.com/in/sanaajani/), or [Twitter](https://twitter.com/sana_ajani)
 
-**sana-ajani/sana-ajani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on VS Code
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I like dogs!
 
